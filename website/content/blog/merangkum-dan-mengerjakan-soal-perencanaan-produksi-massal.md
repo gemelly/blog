@@ -1,9 +1,9 @@
 +++
 author = "Adhelia Gemeleonny Pamugkas"
 bg_image = ""
-date = 2021-10-22T14:05:00Z
+date = 2021-10-22T14:09:00Z
 description = ""
-tags = [""]
+tags = ["Tugas", ""]
 title = "Merangkum dan mengerjakan soal perencanaan produksi massal"
 toc = ""
 
